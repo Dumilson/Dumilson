@@ -5,6 +5,8 @@
 <h1> Olá < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
+    
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dumilson&label=Profile%20views&color=0e75b6&style=flat" alt="Dumilson" /> </p>
 
 
 <div size='20px'>Oi! Meu nome é Domingos. Obrigado por reservar um tempo para ver meu perfil do GitHub 
