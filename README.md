@@ -12,6 +12,10 @@ Minha especialidade é criar soluções de back end robustas e escaláveis, capa
 Acredito que a comunicação eficiente é fundamental em qualquer projeto, e tenho facilidade em trabalhar em equipe e em seguir as diretrizes do projeto de maneira eficiente. Estou sempre buscando aprender novas tecnologias e me atualizar para poder oferecer aos meus clientes as melhores soluções possíveis.
 
 Se você estiver procurando por um desenvolvedor back end experiente e confiável, entre em contato comigo. Estou ansioso para trabalhar em projetos interessantes e ajudar a levar suas ideias ao próximo nível.
+    
+<br>
+ 
+<a href="http://domingosbraganha.tech/">Meu Portofolio</a>
 </div>
 
 <h2> Sobre mim<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -88,13 +92,10 @@ Se você estiver procurando por um desenvolvedor back end experiente e confiáve
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/domingos-braganha-afonso-a016521b8/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/DrCode8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
-  
+<a href = 'https://www.twitter.com/DrCode8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>  
 <br>
 <br>
-  <br>
-  
-[![Dumilson's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dumilson&theme=tokyonight)](https://git.io/praveenscience)
+
 
 | ![Dumilson's github stats](https://github-readme-stats.vercel.app/api?username=Dumilson&show_icons=true&theme=tokyonight) | ![Dumilson GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dumilson&theme=tokyonight) |
 | --- | --- |
