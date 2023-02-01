@@ -5,7 +5,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dumilson&label=Profile%20views&color=0e75b6&style=flat" alt="Dumilson" /> </p>
 
 
-<div size='20px'>Olá, meu nome é Domingos Braganha Afonso e sou um desenvolvedor back end com 3 anos de experiência em PHP, CSS, JS, jQuery e Bootstrap. Também tenho conhecimento avançado em MySQL e já trabalhei em diversos projetos usando essas tecnologias.
+<div size='20px'>Olá, meu nome é Domingos  Afonso e sou um desenvolvedor back end com 3 anos de experiência em PHP, CSS, JS, jQuery e Bootstrap. Também tenho conhecimento avançado em MySQL e já trabalhei em diversos projetos usando essas tecnologias.
 
 Minha especialidade é criar soluções de back end robustas e escaláveis, capazes de lidar com grandes quantidades de dados e transações. Além disso, tenho experiência em integração com APIs.
 
