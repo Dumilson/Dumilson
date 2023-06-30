@@ -9,13 +9,12 @@
 
 Minha especialidade é criar soluções de back end robustas e escaláveis, capazes de lidar com grandes quantidades de dados e transações. Além disso, tenho experiência em integração com APIs.
 
-Acredito que a comunicação eficiente é fundamental em qualquer projeto, e tenho facilidade em trabalhar em equipe e em seguir as diretrizes do projeto de maneira eficiente. Estou sempre buscando aprender novas tecnologias e me atualizar para poder oferecer aos meus clientes as melhores soluções possíveis.
 
 Se você estiver procurando por um desenvolvedor back end experiente e confiável, entre em contato comigo. Estou ansioso para trabalhar em projetos interessantes e ajudar a levar suas ideias ao próximo nível.
     
 <br>
  
-<a href="http://domingosbraganha.tech/">Meu Portofolio</a>
+<h1><a href="http://domingosbraganha.tech/">Meu Portofolio</a></h1>
 </div>
 
 <h2> Sobre mim<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
