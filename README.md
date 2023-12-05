@@ -21,13 +21,7 @@ Se você estiver procurando por um desenvolvedor back end experiente e confiáve
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-  
-- 🌱 Atualmente estou aprendendo AWS, Apache Kafka & RabbitMQ
-  
-- 👯 Estou procurando colaborar em Projectos
-  
-- 💬 Pergunte-me sobre Sql, PHP, Laravel, JavaScript
-  
+
 
 <h2> Skills </h2>
 
