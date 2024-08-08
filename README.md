@@ -1,20 +1,19 @@
-<h1> Olá < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hi < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
     
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dumilson&label=Profile%20views&color=0e75b6&style=flat" alt="Dumilson" /> </p>
 
 
-<div size='20px'>Olá, meu nome é Domingos  Afonso e sou um desenvolvedor back end com 3 anos de experiência em PHP, CSS, JS, jQuery e Bootstrap. Também tenho conhecimento avançado em MySQL e já trabalhei em diversos projetos usando essas tecnologias.
+<div size='20px'>Olá, meu nome é Domingos  Afonso e sou um desenvolvedor back end com 3 anos de experiência em PHP, CSS, JS, jQuery e Bootstrap. Também tenho conhecimento avançado em I'm Domingos Braganha, a back-end developer with 3 years of experience in PHP/Laravel, CSS/Bootstrap, JS/VueJS, MySQL, and PostgreSQL.
 
-Minha especialidade é criar soluções de back end robustas e escaláveis, capazes de lidar com grandes quantidades de dados e transações. Além disso, tenho experiência em integração com APIs.
+I create scalable and robust solutions, with API integration experience. I value efficient communication and work well in teams.
 
-
-Se você estiver procurando por um desenvolvedor back end experiente e confiável, entre em contato comigo. Estou ansioso para trabalhar em projetos interessantes e ajudar a levar suas ideias ao próximo nível.
     
 <br>
  
-<h3><a href="http://domingosbraganha.tech/">Meu Portofolio</a></h3>
+<h3><a href="http://domingosbraganha.tech/">
+Check out my portfolio</a></h3>
 </div>
 
 
